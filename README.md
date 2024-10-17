@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **12210544_INFO_ATENCION_CLIENTE_MEDIOS_TECNOLOGICOS**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/12210544_INFO_ATENCION_CLIENTE_MEDIOS_TECNOLOGICOS/](https://ecored-sena.github.io/12210544_INFO_ATENCION_CLIENTE_MEDIOS_TECNOLOGICOS/)
 
 #
